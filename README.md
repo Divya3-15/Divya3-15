@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divya3-15
 - 👀 I’m interested in software testing 
-- 🌱 I’m currently learning Java,python programming language and software testing as well
+- 🌱 I’m currently learning Java programming language ,Manual Testing,Agile,Scrum,Automation Testing in Selenium,Cucumber,Maven,TestNG,Data driven,Sql as well
 - 💞️ I’m looking for any internship program for learn more work experience.
 - 📫 How to reach me divyadhandapani30@gmail.com
 
